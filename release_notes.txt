@@ -1,1 +1,3 @@
 To view the release notes for the Application Insights SDK for Java, follow this link: http://go.microsoft.com/fwlink/?LinkId=535037
+
+Version 0.9.5.1 is a special Team Explorer Everywhere release that was created by adding the changes in pull request #279 (the fix_shared_tmpdir branch) to version 0.9.5.
